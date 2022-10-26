@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alan Mondragón Rivas
 - 🤖 I’m a Robotic & Digital Systems engineer almost graduate 🎓
-- 🔖Working on this new one and try to recoverd what a lost. 
+- 🔖 Old Github that I couldn't recover:( -> https://github.com/AlanMondra. 
 - 📫 You can contact me on my personal email: alanmondragonr@gmail.com
 
 <!---
