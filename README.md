@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alan Mondragón Rivas
-- 🤖 I’m a Robotic & Digital Systems engineer almost graduate 🎓
+- 🤖 I’m a Robotic & Digital Systems engineer graduate 🎓
 - 🔖 Secondary Github: https://github.com/AlanMondra. 
 - 📫 You can contact me on my personal email: monrialan@gmail.com
 
