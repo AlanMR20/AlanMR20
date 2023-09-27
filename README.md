@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alan Mondragón Rivas
 - 🤖 I’m a Robotic & Digital Systems engineer graduate 🎓
 - 🔖 Secondary Github: https://github.com/AlanMondra. 
-- 📫 You can contact me on my personal email: monrialan@exatec.tec.mx
+- 📫 You can contact me on my personal email: a01734565@exatec.tec.mx
 
 <!---
 AlanMR20/AlanMR20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
